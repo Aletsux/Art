@@ -1,0 +1,17 @@
+Adobe After Effects v15.0.1 Windows 64 render log for project “Char1_running.aep”
+
+Rendering started on 2021-12-03 at 09:46:43
+
+  2021-12-03 09:46:43: Starting composition “Rig”.
+
+  Output To: C:\Users\chengche.huang\Downloads\Spel 5\Characters\Animation\Gifs\Rig.avi    2021-12-03 09:46:45: Finished composition “Rig”.
+
+
+  2021-12-03 09:46:45: Starting composition “Rig”.
+
+  Output To: C:\Users\chengche.huang\Downloads\Spel 5\Characters\Animation\Gifs\Char1_run.avi    2021-12-03 09:46:46: Finished composition “Rig”.
+
+
+  Total Time Elapsed: 3 Seconds
+Log closed on 2021-12-03 at 09:46:46
+

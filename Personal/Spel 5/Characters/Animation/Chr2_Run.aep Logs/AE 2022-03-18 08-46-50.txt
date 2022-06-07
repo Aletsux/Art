@@ -1,0 +1,17 @@
+Adobe After Effects v15.0.1 Windows 64 render log for project “Chr2_Run.aep”
+
+Rendering started on 2022-03-18 at 08:46:50
+
+  2022-03-18 08:46:50: Starting composition “Chr2”.
+
+  Output To: C:\Users\chengche.huang\Downloads\Spel 5\Characters\Animation\Frames\NPC\NPC2_Run\Chr2\Chr2_[#####].png    2022-03-18 08:46:51: Finished composition “Chr2”.
+
+
+  2022-03-18 08:46:51: Starting composition “Chr2”.
+
+  Output To: C:\Users\chengche.huang\Downloads\Spel 5\Characters\Animation\Frames\Char2_running\Chr2\Char2_Run__[#####].png    2022-03-18 08:46:53: Finished composition “Chr2”.
+
+
+  Total Time Elapsed: 3 Seconds
+Log closed on 2022-03-18 at 08:46:53
+
